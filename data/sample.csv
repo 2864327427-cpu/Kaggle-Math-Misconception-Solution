@@ -1,0 +1,3 @@
+row_id,QuestionId,QuestionText,MC_Answer,StudentExplanation,Category,Misconception
+Sample_0001,Q001,"If 1/2 + 1/3, what is the result?",A,"I added denominators and got 2/5.",False_Misconception,Additive
+Sample_0002,Q002,"Is 0.8 greater than 0.65?",A,"0.8 is larger because eight tenths is more than sixty-five hundredths.",True_Correct,NA
